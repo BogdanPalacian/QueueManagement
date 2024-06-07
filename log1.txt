@@ -1,0 +1,300 @@
+Current time: 1
+Clients: Client{id=1, arrivalTime=15, serviceTime=4} Client{id=2, arrivalTime=27, serviceTime=4} Client{id=3, arrivalTime=25, serviceTime=2} Client{id=4, arrivalTime=19, serviceTime=4} 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 2
+Clients: Client{id=1, arrivalTime=15, serviceTime=4} Client{id=2, arrivalTime=27, serviceTime=4} Client{id=3, arrivalTime=25, serviceTime=2} Client{id=4, arrivalTime=19, serviceTime=4} 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 3
+Clients: Client{id=1, arrivalTime=15, serviceTime=4} Client{id=2, arrivalTime=27, serviceTime=4} Client{id=3, arrivalTime=25, serviceTime=2} Client{id=4, arrivalTime=19, serviceTime=4} 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 4
+Clients: Client{id=1, arrivalTime=15, serviceTime=4} Client{id=2, arrivalTime=27, serviceTime=4} Client{id=3, arrivalTime=25, serviceTime=2} Client{id=4, arrivalTime=19, serviceTime=4} 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 5
+Clients: Client{id=1, arrivalTime=15, serviceTime=4} Client{id=2, arrivalTime=27, serviceTime=4} Client{id=3, arrivalTime=25, serviceTime=2} Client{id=4, arrivalTime=19, serviceTime=4} 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 6
+Clients: Client{id=1, arrivalTime=15, serviceTime=4} Client{id=2, arrivalTime=27, serviceTime=4} Client{id=3, arrivalTime=25, serviceTime=2} Client{id=4, arrivalTime=19, serviceTime=4} 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 7
+Clients: Client{id=1, arrivalTime=15, serviceTime=4} Client{id=2, arrivalTime=27, serviceTime=4} Client{id=3, arrivalTime=25, serviceTime=2} Client{id=4, arrivalTime=19, serviceTime=4} 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 8
+Clients: Client{id=1, arrivalTime=15, serviceTime=4} Client{id=2, arrivalTime=27, serviceTime=4} Client{id=3, arrivalTime=25, serviceTime=2} Client{id=4, arrivalTime=19, serviceTime=4} 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 9
+Clients: Client{id=1, arrivalTime=15, serviceTime=4} Client{id=2, arrivalTime=27, serviceTime=4} Client{id=3, arrivalTime=25, serviceTime=2} Client{id=4, arrivalTime=19, serviceTime=4} 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 10
+Clients: Client{id=1, arrivalTime=15, serviceTime=4} Client{id=2, arrivalTime=27, serviceTime=4} Client{id=3, arrivalTime=25, serviceTime=2} Client{id=4, arrivalTime=19, serviceTime=4} 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 11
+Clients: Client{id=1, arrivalTime=15, serviceTime=4} Client{id=2, arrivalTime=27, serviceTime=4} Client{id=3, arrivalTime=25, serviceTime=2} Client{id=4, arrivalTime=19, serviceTime=4} 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 12
+Clients: Client{id=1, arrivalTime=15, serviceTime=4} Client{id=2, arrivalTime=27, serviceTime=4} Client{id=3, arrivalTime=25, serviceTime=2} Client{id=4, arrivalTime=19, serviceTime=4} 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 13
+Clients: Client{id=1, arrivalTime=15, serviceTime=4} Client{id=2, arrivalTime=27, serviceTime=4} Client{id=3, arrivalTime=25, serviceTime=2} Client{id=4, arrivalTime=19, serviceTime=4} 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 14
+Clients: Client{id=1, arrivalTime=15, serviceTime=4} Client{id=2, arrivalTime=27, serviceTime=4} Client{id=3, arrivalTime=25, serviceTime=2} Client{id=4, arrivalTime=19, serviceTime=4} 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 15
+Clients: Client{id=2, arrivalTime=27, serviceTime=4} Client{id=3, arrivalTime=25, serviceTime=2} Client{id=4, arrivalTime=19, serviceTime=4} 
+Queue 1: Queue: Client{id=1, arrivalTime=15, serviceTime=4} 
+Queue 2: Queue: 
+
+Current time: 16
+Clients: Client{id=2, arrivalTime=27, serviceTime=4} Client{id=3, arrivalTime=25, serviceTime=2} Client{id=4, arrivalTime=19, serviceTime=4} 
+Queue 1: Queue: Client{id=1, arrivalTime=15, serviceTime=3} 
+Queue 2: Queue: 
+
+Current time: 17
+Clients: Client{id=2, arrivalTime=27, serviceTime=4} Client{id=3, arrivalTime=25, serviceTime=2} Client{id=4, arrivalTime=19, serviceTime=4} 
+Queue 1: Queue: Client{id=1, arrivalTime=15, serviceTime=2} 
+Queue 2: Queue: 
+
+Current time: 18
+Clients: Client{id=2, arrivalTime=27, serviceTime=4} Client{id=3, arrivalTime=25, serviceTime=2} Client{id=4, arrivalTime=19, serviceTime=4} 
+Queue 1: Queue: Client{id=1, arrivalTime=15, serviceTime=1} 
+Queue 2: Queue: 
+
+Current time: 19
+Clients: Client{id=2, arrivalTime=27, serviceTime=4} Client{id=3, arrivalTime=25, serviceTime=2} 
+Queue 1: Queue: 
+Queue 2: Queue: Client{id=4, arrivalTime=19, serviceTime=4} 
+
+Current time: 20
+Clients: Client{id=2, arrivalTime=27, serviceTime=4} Client{id=3, arrivalTime=25, serviceTime=2} 
+Queue 1: Queue: 
+Queue 2: Queue: Client{id=4, arrivalTime=19, serviceTime=3} 
+
+Current time: 21
+Clients: Client{id=2, arrivalTime=27, serviceTime=4} Client{id=3, arrivalTime=25, serviceTime=2} 
+Queue 1: Queue: 
+Queue 2: Queue: Client{id=4, arrivalTime=19, serviceTime=2} 
+
+Current time: 22
+Clients: Client{id=2, arrivalTime=27, serviceTime=4} Client{id=3, arrivalTime=25, serviceTime=2} 
+Queue 1: Queue: 
+Queue 2: Queue: Client{id=4, arrivalTime=19, serviceTime=1} 
+
+Current time: 23
+Clients: Client{id=2, arrivalTime=27, serviceTime=4} Client{id=3, arrivalTime=25, serviceTime=2} 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 24
+Clients: Client{id=2, arrivalTime=27, serviceTime=4} Client{id=3, arrivalTime=25, serviceTime=2} 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 25
+Clients: Client{id=2, arrivalTime=27, serviceTime=4} 
+Queue 1: Queue: Client{id=3, arrivalTime=25, serviceTime=2} 
+Queue 2: Queue: 
+
+Current time: 26
+Clients: Client{id=2, arrivalTime=27, serviceTime=4} 
+Queue 1: Queue: Client{id=3, arrivalTime=25, serviceTime=1} 
+Queue 2: Queue: 
+
+Current time: 27
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: Client{id=2, arrivalTime=27, serviceTime=4} 
+
+Current time: 28
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: Client{id=2, arrivalTime=27, serviceTime=3} 
+
+Current time: 29
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: Client{id=2, arrivalTime=27, serviceTime=2} 
+
+Current time: 30
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: Client{id=2, arrivalTime=27, serviceTime=1} 
+
+Current time: 31
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 32
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 33
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 34
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 35
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 36
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 37
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 38
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 39
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 40
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 41
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 42
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 43
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 44
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 45
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 46
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 47
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 48
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 49
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 50
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 51
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 52
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 53
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 54
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 55
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 56
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 57
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 58
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 59
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+
+Current time: 60
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+

@@ -1,0 +1,480 @@
+Current time: 1
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=4, arrivalTime=23, serviceTime=1} Client{id=5, arrivalTime=24, serviceTime=2} Client{id=6, arrivalTime=6, serviceTime=6} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=8, arrivalTime=25, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=11, arrivalTime=11, serviceTime=1} Client{id=12, arrivalTime=5, serviceTime=3} Client{id=13, arrivalTime=6, serviceTime=1} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=15, arrivalTime=17, serviceTime=7} Client{id=16, arrivalTime=14, serviceTime=6} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=18, arrivalTime=25, serviceTime=6} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=20, arrivalTime=20, serviceTime=4} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=23, arrivalTime=4, serviceTime=1} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=27, arrivalTime=24, serviceTime=1} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=31, arrivalTime=9, serviceTime=4} Client{id=32, arrivalTime=7, serviceTime=3} Client{id=33, arrivalTime=21, serviceTime=5} Client{id=34, arrivalTime=19, serviceTime=3} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=37, arrivalTime=19, serviceTime=6} Client{id=38, arrivalTime=8, serviceTime=7} Client{id=39, arrivalTime=13, serviceTime=2} Client{id=40, arrivalTime=12, serviceTime=4} Client{id=41, arrivalTime=6, serviceTime=3} Client{id=42, arrivalTime=7, serviceTime=1} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=46, arrivalTime=17, serviceTime=7} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} Client{id=49, arrivalTime=20, serviceTime=3} Client{id=50, arrivalTime=11, serviceTime=2} 
+Queue 1: Queue: 
+Queue 2: Queue: 
+Queue 3: Queue: 
+Queue 4: Queue: 
+Queue 5: Queue: 
+
+Current time: 2
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=4, arrivalTime=23, serviceTime=1} Client{id=5, arrivalTime=24, serviceTime=2} Client{id=6, arrivalTime=6, serviceTime=6} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=8, arrivalTime=25, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=11, arrivalTime=11, serviceTime=1} Client{id=12, arrivalTime=5, serviceTime=3} Client{id=13, arrivalTime=6, serviceTime=1} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=15, arrivalTime=17, serviceTime=7} Client{id=16, arrivalTime=14, serviceTime=6} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=18, arrivalTime=25, serviceTime=6} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=20, arrivalTime=20, serviceTime=4} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=23, arrivalTime=4, serviceTime=1} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=27, arrivalTime=24, serviceTime=1} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=31, arrivalTime=9, serviceTime=4} Client{id=32, arrivalTime=7, serviceTime=3} Client{id=33, arrivalTime=21, serviceTime=5} Client{id=34, arrivalTime=19, serviceTime=3} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=37, arrivalTime=19, serviceTime=6} Client{id=38, arrivalTime=8, serviceTime=7} Client{id=39, arrivalTime=13, serviceTime=2} Client{id=40, arrivalTime=12, serviceTime=4} Client{id=41, arrivalTime=6, serviceTime=3} Client{id=42, arrivalTime=7, serviceTime=1} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=46, arrivalTime=17, serviceTime=7} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} Client{id=49, arrivalTime=20, serviceTime=3} Client{id=50, arrivalTime=11, serviceTime=2} 
+Queue 1: Queue: 
+Queue 2: Queue: 
+Queue 3: Queue: 
+Queue 4: Queue: 
+Queue 5: Queue: 
+
+Current time: 3
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=4, arrivalTime=23, serviceTime=1} Client{id=5, arrivalTime=24, serviceTime=2} Client{id=6, arrivalTime=6, serviceTime=6} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=8, arrivalTime=25, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=11, arrivalTime=11, serviceTime=1} Client{id=12, arrivalTime=5, serviceTime=3} Client{id=13, arrivalTime=6, serviceTime=1} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=15, arrivalTime=17, serviceTime=7} Client{id=16, arrivalTime=14, serviceTime=6} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=18, arrivalTime=25, serviceTime=6} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=20, arrivalTime=20, serviceTime=4} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=23, arrivalTime=4, serviceTime=1} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=27, arrivalTime=24, serviceTime=1} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=31, arrivalTime=9, serviceTime=4} Client{id=32, arrivalTime=7, serviceTime=3} Client{id=33, arrivalTime=21, serviceTime=5} Client{id=34, arrivalTime=19, serviceTime=3} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=37, arrivalTime=19, serviceTime=6} Client{id=38, arrivalTime=8, serviceTime=7} Client{id=39, arrivalTime=13, serviceTime=2} Client{id=40, arrivalTime=12, serviceTime=4} Client{id=41, arrivalTime=6, serviceTime=3} Client{id=42, arrivalTime=7, serviceTime=1} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=46, arrivalTime=17, serviceTime=7} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} Client{id=49, arrivalTime=20, serviceTime=3} Client{id=50, arrivalTime=11, serviceTime=2} 
+Queue 1: Queue: 
+Queue 2: Queue: 
+Queue 3: Queue: 
+Queue 4: Queue: 
+Queue 5: Queue: 
+
+Current time: 4
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=4, arrivalTime=23, serviceTime=1} Client{id=5, arrivalTime=24, serviceTime=2} Client{id=6, arrivalTime=6, serviceTime=6} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=8, arrivalTime=25, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=11, arrivalTime=11, serviceTime=1} Client{id=12, arrivalTime=5, serviceTime=3} Client{id=13, arrivalTime=6, serviceTime=1} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=15, arrivalTime=17, serviceTime=7} Client{id=16, arrivalTime=14, serviceTime=6} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=18, arrivalTime=25, serviceTime=6} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=20, arrivalTime=20, serviceTime=4} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=27, arrivalTime=24, serviceTime=1} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=31, arrivalTime=9, serviceTime=4} Client{id=32, arrivalTime=7, serviceTime=3} Client{id=33, arrivalTime=21, serviceTime=5} Client{id=34, arrivalTime=19, serviceTime=3} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=37, arrivalTime=19, serviceTime=6} Client{id=38, arrivalTime=8, serviceTime=7} Client{id=39, arrivalTime=13, serviceTime=2} Client{id=40, arrivalTime=12, serviceTime=4} Client{id=41, arrivalTime=6, serviceTime=3} Client{id=42, arrivalTime=7, serviceTime=1} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=46, arrivalTime=17, serviceTime=7} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} Client{id=49, arrivalTime=20, serviceTime=3} Client{id=50, arrivalTime=11, serviceTime=2} 
+Queue 1: Queue: Client{id=23, arrivalTime=4, serviceTime=1} 
+Queue 2: Queue: 
+Queue 3: Queue: 
+Queue 4: Queue: 
+Queue 5: Queue: 
+
+Current time: 5
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=4, arrivalTime=23, serviceTime=1} Client{id=5, arrivalTime=24, serviceTime=2} Client{id=6, arrivalTime=6, serviceTime=6} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=8, arrivalTime=25, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=11, arrivalTime=11, serviceTime=1} Client{id=13, arrivalTime=6, serviceTime=1} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=15, arrivalTime=17, serviceTime=7} Client{id=16, arrivalTime=14, serviceTime=6} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=18, arrivalTime=25, serviceTime=6} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=20, arrivalTime=20, serviceTime=4} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=27, arrivalTime=24, serviceTime=1} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=31, arrivalTime=9, serviceTime=4} Client{id=32, arrivalTime=7, serviceTime=3} Client{id=33, arrivalTime=21, serviceTime=5} Client{id=34, arrivalTime=19, serviceTime=3} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=37, arrivalTime=19, serviceTime=6} Client{id=38, arrivalTime=8, serviceTime=7} Client{id=39, arrivalTime=13, serviceTime=2} Client{id=40, arrivalTime=12, serviceTime=4} Client{id=41, arrivalTime=6, serviceTime=3} Client{id=42, arrivalTime=7, serviceTime=1} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=46, arrivalTime=17, serviceTime=7} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} Client{id=49, arrivalTime=20, serviceTime=3} Client{id=50, arrivalTime=11, serviceTime=2} 
+Queue 1: Queue: 
+Queue 2: Queue: Client{id=12, arrivalTime=5, serviceTime=3} 
+Queue 3: Queue: 
+Queue 4: Queue: 
+Queue 5: Queue: 
+
+Current time: 6
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=4, arrivalTime=23, serviceTime=1} Client{id=5, arrivalTime=24, serviceTime=2} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=8, arrivalTime=25, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=11, arrivalTime=11, serviceTime=1} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=15, arrivalTime=17, serviceTime=7} Client{id=16, arrivalTime=14, serviceTime=6} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=18, arrivalTime=25, serviceTime=6} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=20, arrivalTime=20, serviceTime=4} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=27, arrivalTime=24, serviceTime=1} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=31, arrivalTime=9, serviceTime=4} Client{id=32, arrivalTime=7, serviceTime=3} Client{id=33, arrivalTime=21, serviceTime=5} Client{id=34, arrivalTime=19, serviceTime=3} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=37, arrivalTime=19, serviceTime=6} Client{id=38, arrivalTime=8, serviceTime=7} Client{id=39, arrivalTime=13, serviceTime=2} Client{id=40, arrivalTime=12, serviceTime=4} Client{id=42, arrivalTime=7, serviceTime=1} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=46, arrivalTime=17, serviceTime=7} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} Client{id=49, arrivalTime=20, serviceTime=3} Client{id=50, arrivalTime=11, serviceTime=2} 
+Queue 1: Queue: Client{id=6, arrivalTime=6, serviceTime=6} 
+Queue 2: Queue: Client{id=12, arrivalTime=5, serviceTime=2} 
+Queue 3: Queue: Client{id=13, arrivalTime=6, serviceTime=1} 
+Queue 4: Queue: Client{id=41, arrivalTime=6, serviceTime=3} 
+Queue 5: Queue: 
+
+Current time: 7
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=4, arrivalTime=23, serviceTime=1} Client{id=5, arrivalTime=24, serviceTime=2} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=8, arrivalTime=25, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=11, arrivalTime=11, serviceTime=1} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=15, arrivalTime=17, serviceTime=7} Client{id=16, arrivalTime=14, serviceTime=6} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=18, arrivalTime=25, serviceTime=6} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=20, arrivalTime=20, serviceTime=4} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=27, arrivalTime=24, serviceTime=1} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=31, arrivalTime=9, serviceTime=4} Client{id=33, arrivalTime=21, serviceTime=5} Client{id=34, arrivalTime=19, serviceTime=3} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=37, arrivalTime=19, serviceTime=6} Client{id=38, arrivalTime=8, serviceTime=7} Client{id=39, arrivalTime=13, serviceTime=2} Client{id=40, arrivalTime=12, serviceTime=4} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=46, arrivalTime=17, serviceTime=7} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} Client{id=49, arrivalTime=20, serviceTime=3} Client{id=50, arrivalTime=11, serviceTime=2} 
+Queue 1: Queue: Client{id=6, arrivalTime=6, serviceTime=5} 
+Queue 2: Queue: Client{id=12, arrivalTime=5, serviceTime=1} 
+Queue 3: Queue: Client{id=42, arrivalTime=7, serviceTime=1} 
+Queue 4: Queue: Client{id=41, arrivalTime=6, serviceTime=2} 
+Queue 5: Queue: Client{id=32, arrivalTime=7, serviceTime=3} 
+
+Current time: 8
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=4, arrivalTime=23, serviceTime=1} Client{id=5, arrivalTime=24, serviceTime=2} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=8, arrivalTime=25, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=11, arrivalTime=11, serviceTime=1} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=15, arrivalTime=17, serviceTime=7} Client{id=16, arrivalTime=14, serviceTime=6} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=18, arrivalTime=25, serviceTime=6} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=20, arrivalTime=20, serviceTime=4} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=27, arrivalTime=24, serviceTime=1} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=31, arrivalTime=9, serviceTime=4} Client{id=33, arrivalTime=21, serviceTime=5} Client{id=34, arrivalTime=19, serviceTime=3} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=37, arrivalTime=19, serviceTime=6} Client{id=39, arrivalTime=13, serviceTime=2} Client{id=40, arrivalTime=12, serviceTime=4} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=46, arrivalTime=17, serviceTime=7} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} Client{id=49, arrivalTime=20, serviceTime=3} Client{id=50, arrivalTime=11, serviceTime=2} 
+Queue 1: Queue: Client{id=6, arrivalTime=6, serviceTime=4} 
+Queue 2: Queue: Client{id=38, arrivalTime=8, serviceTime=7} 
+Queue 3: Queue: 
+Queue 4: Queue: Client{id=41, arrivalTime=6, serviceTime=1} 
+Queue 5: Queue: Client{id=32, arrivalTime=7, serviceTime=2} 
+
+Current time: 9
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=4, arrivalTime=23, serviceTime=1} Client{id=5, arrivalTime=24, serviceTime=2} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=8, arrivalTime=25, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=11, arrivalTime=11, serviceTime=1} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=15, arrivalTime=17, serviceTime=7} Client{id=16, arrivalTime=14, serviceTime=6} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=18, arrivalTime=25, serviceTime=6} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=20, arrivalTime=20, serviceTime=4} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=27, arrivalTime=24, serviceTime=1} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=33, arrivalTime=21, serviceTime=5} Client{id=34, arrivalTime=19, serviceTime=3} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=37, arrivalTime=19, serviceTime=6} Client{id=39, arrivalTime=13, serviceTime=2} Client{id=40, arrivalTime=12, serviceTime=4} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=46, arrivalTime=17, serviceTime=7} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} Client{id=49, arrivalTime=20, serviceTime=3} Client{id=50, arrivalTime=11, serviceTime=2} 
+Queue 1: Queue: Client{id=6, arrivalTime=6, serviceTime=3} 
+Queue 2: Queue: Client{id=38, arrivalTime=8, serviceTime=6} 
+Queue 3: Queue: Client{id=31, arrivalTime=9, serviceTime=4} 
+Queue 4: Queue: 
+Queue 5: Queue: Client{id=32, arrivalTime=7, serviceTime=1} 
+
+Current time: 10
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=4, arrivalTime=23, serviceTime=1} Client{id=5, arrivalTime=24, serviceTime=2} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=8, arrivalTime=25, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=11, arrivalTime=11, serviceTime=1} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=15, arrivalTime=17, serviceTime=7} Client{id=16, arrivalTime=14, serviceTime=6} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=18, arrivalTime=25, serviceTime=6} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=20, arrivalTime=20, serviceTime=4} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=27, arrivalTime=24, serviceTime=1} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=33, arrivalTime=21, serviceTime=5} Client{id=34, arrivalTime=19, serviceTime=3} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=37, arrivalTime=19, serviceTime=6} Client{id=39, arrivalTime=13, serviceTime=2} Client{id=40, arrivalTime=12, serviceTime=4} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=46, arrivalTime=17, serviceTime=7} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} Client{id=49, arrivalTime=20, serviceTime=3} Client{id=50, arrivalTime=11, serviceTime=2} 
+Queue 1: Queue: Client{id=6, arrivalTime=6, serviceTime=2} 
+Queue 2: Queue: Client{id=38, arrivalTime=8, serviceTime=5} 
+Queue 3: Queue: Client{id=31, arrivalTime=9, serviceTime=3} 
+Queue 4: Queue: 
+Queue 5: Queue: 
+
+Current time: 11
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=4, arrivalTime=23, serviceTime=1} Client{id=5, arrivalTime=24, serviceTime=2} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=8, arrivalTime=25, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=15, arrivalTime=17, serviceTime=7} Client{id=16, arrivalTime=14, serviceTime=6} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=18, arrivalTime=25, serviceTime=6} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=20, arrivalTime=20, serviceTime=4} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=27, arrivalTime=24, serviceTime=1} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=33, arrivalTime=21, serviceTime=5} Client{id=34, arrivalTime=19, serviceTime=3} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=37, arrivalTime=19, serviceTime=6} Client{id=39, arrivalTime=13, serviceTime=2} Client{id=40, arrivalTime=12, serviceTime=4} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=46, arrivalTime=17, serviceTime=7} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} Client{id=49, arrivalTime=20, serviceTime=3} 
+Queue 1: Queue: Client{id=6, arrivalTime=6, serviceTime=1} 
+Queue 2: Queue: Client{id=38, arrivalTime=8, serviceTime=4} 
+Queue 3: Queue: Client{id=31, arrivalTime=9, serviceTime=2} 
+Queue 4: Queue: Client{id=11, arrivalTime=11, serviceTime=1} 
+Queue 5: Queue: Client{id=50, arrivalTime=11, serviceTime=2} 
+
+Current time: 12
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=4, arrivalTime=23, serviceTime=1} Client{id=5, arrivalTime=24, serviceTime=2} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=8, arrivalTime=25, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=15, arrivalTime=17, serviceTime=7} Client{id=16, arrivalTime=14, serviceTime=6} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=18, arrivalTime=25, serviceTime=6} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=20, arrivalTime=20, serviceTime=4} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=27, arrivalTime=24, serviceTime=1} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=33, arrivalTime=21, serviceTime=5} Client{id=34, arrivalTime=19, serviceTime=3} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=37, arrivalTime=19, serviceTime=6} Client{id=39, arrivalTime=13, serviceTime=2} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=46, arrivalTime=17, serviceTime=7} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} Client{id=49, arrivalTime=20, serviceTime=3} 
+Queue 1: Queue: Client{id=40, arrivalTime=12, serviceTime=4} 
+Queue 2: Queue: Client{id=38, arrivalTime=8, serviceTime=3} 
+Queue 3: Queue: Client{id=31, arrivalTime=9, serviceTime=1} 
+Queue 4: Queue: 
+Queue 5: Queue: Client{id=50, arrivalTime=11, serviceTime=1} 
+
+Current time: 13
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=4, arrivalTime=23, serviceTime=1} Client{id=5, arrivalTime=24, serviceTime=2} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=8, arrivalTime=25, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=15, arrivalTime=17, serviceTime=7} Client{id=16, arrivalTime=14, serviceTime=6} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=18, arrivalTime=25, serviceTime=6} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=20, arrivalTime=20, serviceTime=4} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=27, arrivalTime=24, serviceTime=1} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=33, arrivalTime=21, serviceTime=5} Client{id=34, arrivalTime=19, serviceTime=3} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=37, arrivalTime=19, serviceTime=6} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=46, arrivalTime=17, serviceTime=7} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} Client{id=49, arrivalTime=20, serviceTime=3} 
+Queue 1: Queue: Client{id=40, arrivalTime=12, serviceTime=3} 
+Queue 2: Queue: Client{id=38, arrivalTime=8, serviceTime=2} 
+Queue 3: Queue: Client{id=39, arrivalTime=13, serviceTime=2} 
+Queue 4: Queue: 
+Queue 5: Queue: 
+
+Current time: 14
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=4, arrivalTime=23, serviceTime=1} Client{id=5, arrivalTime=24, serviceTime=2} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=8, arrivalTime=25, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=15, arrivalTime=17, serviceTime=7} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=18, arrivalTime=25, serviceTime=6} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=20, arrivalTime=20, serviceTime=4} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=27, arrivalTime=24, serviceTime=1} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=33, arrivalTime=21, serviceTime=5} Client{id=34, arrivalTime=19, serviceTime=3} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=37, arrivalTime=19, serviceTime=6} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=46, arrivalTime=17, serviceTime=7} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} Client{id=49, arrivalTime=20, serviceTime=3} 
+Queue 1: Queue: Client{id=40, arrivalTime=12, serviceTime=2} 
+Queue 2: Queue: Client{id=38, arrivalTime=8, serviceTime=1} 
+Queue 3: Queue: Client{id=39, arrivalTime=13, serviceTime=1} 
+Queue 4: Queue: Client{id=16, arrivalTime=14, serviceTime=6} 
+Queue 5: Queue: 
+
+Current time: 15
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=4, arrivalTime=23, serviceTime=1} Client{id=5, arrivalTime=24, serviceTime=2} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=8, arrivalTime=25, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=15, arrivalTime=17, serviceTime=7} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=18, arrivalTime=25, serviceTime=6} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=20, arrivalTime=20, serviceTime=4} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=27, arrivalTime=24, serviceTime=1} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=33, arrivalTime=21, serviceTime=5} Client{id=34, arrivalTime=19, serviceTime=3} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=37, arrivalTime=19, serviceTime=6} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=46, arrivalTime=17, serviceTime=7} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} Client{id=49, arrivalTime=20, serviceTime=3} 
+Queue 1: Queue: Client{id=40, arrivalTime=12, serviceTime=1} 
+Queue 2: Queue: 
+Queue 3: Queue: 
+Queue 4: Queue: Client{id=16, arrivalTime=14, serviceTime=5} 
+Queue 5: Queue: 
+
+Current time: 16
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=4, arrivalTime=23, serviceTime=1} Client{id=5, arrivalTime=24, serviceTime=2} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=8, arrivalTime=25, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=15, arrivalTime=17, serviceTime=7} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=18, arrivalTime=25, serviceTime=6} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=20, arrivalTime=20, serviceTime=4} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=27, arrivalTime=24, serviceTime=1} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=33, arrivalTime=21, serviceTime=5} Client{id=34, arrivalTime=19, serviceTime=3} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=37, arrivalTime=19, serviceTime=6} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=46, arrivalTime=17, serviceTime=7} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} Client{id=49, arrivalTime=20, serviceTime=3} 
+Queue 1: Queue: 
+Queue 2: Queue: 
+Queue 3: Queue: 
+Queue 4: Queue: Client{id=16, arrivalTime=14, serviceTime=4} 
+Queue 5: Queue: 
+
+Current time: 17
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=4, arrivalTime=23, serviceTime=1} Client{id=5, arrivalTime=24, serviceTime=2} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=8, arrivalTime=25, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=18, arrivalTime=25, serviceTime=6} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=20, arrivalTime=20, serviceTime=4} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=27, arrivalTime=24, serviceTime=1} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=33, arrivalTime=21, serviceTime=5} Client{id=34, arrivalTime=19, serviceTime=3} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=37, arrivalTime=19, serviceTime=6} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} Client{id=49, arrivalTime=20, serviceTime=3} 
+Queue 1: Queue: Client{id=15, arrivalTime=17, serviceTime=7} 
+Queue 2: Queue: Client{id=46, arrivalTime=17, serviceTime=7} 
+Queue 3: Queue: 
+Queue 4: Queue: Client{id=16, arrivalTime=14, serviceTime=3} 
+Queue 5: Queue: 
+
+Current time: 18
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=4, arrivalTime=23, serviceTime=1} Client{id=5, arrivalTime=24, serviceTime=2} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=8, arrivalTime=25, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=18, arrivalTime=25, serviceTime=6} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=20, arrivalTime=20, serviceTime=4} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=27, arrivalTime=24, serviceTime=1} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=33, arrivalTime=21, serviceTime=5} Client{id=34, arrivalTime=19, serviceTime=3} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=37, arrivalTime=19, serviceTime=6} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} Client{id=49, arrivalTime=20, serviceTime=3} 
+Queue 1: Queue: Client{id=15, arrivalTime=17, serviceTime=6} 
+Queue 2: Queue: Client{id=46, arrivalTime=17, serviceTime=6} 
+Queue 3: Queue: 
+Queue 4: Queue: Client{id=16, arrivalTime=14, serviceTime=2} 
+Queue 5: Queue: 
+
+Current time: 19
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=4, arrivalTime=23, serviceTime=1} Client{id=5, arrivalTime=24, serviceTime=2} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=8, arrivalTime=25, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=18, arrivalTime=25, serviceTime=6} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=20, arrivalTime=20, serviceTime=4} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=27, arrivalTime=24, serviceTime=1} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=33, arrivalTime=21, serviceTime=5} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} Client{id=49, arrivalTime=20, serviceTime=3} 
+Queue 1: Queue: Client{id=15, arrivalTime=17, serviceTime=5} 
+Queue 2: Queue: Client{id=46, arrivalTime=17, serviceTime=5} 
+Queue 3: Queue: Client{id=34, arrivalTime=19, serviceTime=3} 
+Queue 4: Queue: Client{id=16, arrivalTime=14, serviceTime=1} 
+Queue 5: Queue: Client{id=37, arrivalTime=19, serviceTime=6} 
+
+Current time: 20
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=4, arrivalTime=23, serviceTime=1} Client{id=5, arrivalTime=24, serviceTime=2} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=8, arrivalTime=25, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=18, arrivalTime=25, serviceTime=6} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=27, arrivalTime=24, serviceTime=1} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=33, arrivalTime=21, serviceTime=5} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 1: Queue: Client{id=15, arrivalTime=17, serviceTime=4} Client{id=49, arrivalTime=20, serviceTime=3} 
+Queue 2: Queue: Client{id=46, arrivalTime=17, serviceTime=5} 
+Queue 3: Queue: Client{id=34, arrivalTime=19, serviceTime=2} 
+Queue 4: Queue: Client{id=20, arrivalTime=20, serviceTime=4} 
+Queue 5: Queue: Client{id=37, arrivalTime=19, serviceTime=5} 
+
+Current time: 21
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=4, arrivalTime=23, serviceTime=1} Client{id=5, arrivalTime=24, serviceTime=2} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=8, arrivalTime=25, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=18, arrivalTime=25, serviceTime=6} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=27, arrivalTime=24, serviceTime=1} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 1: Queue: Client{id=15, arrivalTime=17, serviceTime=3} Client{id=49, arrivalTime=20, serviceTime=3} 
+Queue 2: Queue: Client{id=46, arrivalTime=17, serviceTime=3} Client{id=33, arrivalTime=21, serviceTime=5} 
+Queue 3: Queue: Client{id=34, arrivalTime=19, serviceTime=1} 
+Queue 4: Queue: Client{id=20, arrivalTime=20, serviceTime=3} 
+Queue 5: Queue: Client{id=37, arrivalTime=19, serviceTime=4} 
+
+Current time: 22
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=4, arrivalTime=23, serviceTime=1} Client{id=5, arrivalTime=24, serviceTime=2} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=8, arrivalTime=25, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=18, arrivalTime=25, serviceTime=6} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=27, arrivalTime=24, serviceTime=1} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 1: Queue: Client{id=15, arrivalTime=17, serviceTime=2} Client{id=49, arrivalTime=20, serviceTime=3} 
+Queue 2: Queue: Client{id=46, arrivalTime=17, serviceTime=2} Client{id=33, arrivalTime=21, serviceTime=5} 
+Queue 3: Queue: 
+Queue 4: Queue: Client{id=20, arrivalTime=20, serviceTime=2} 
+Queue 5: Queue: Client{id=37, arrivalTime=19, serviceTime=3} 
+
+Current time: 23
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=5, arrivalTime=24, serviceTime=2} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=8, arrivalTime=25, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=18, arrivalTime=25, serviceTime=6} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=27, arrivalTime=24, serviceTime=1} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 1: Queue: Client{id=15, arrivalTime=17, serviceTime=1} Client{id=49, arrivalTime=20, serviceTime=3} 
+Queue 2: Queue: Client{id=46, arrivalTime=17, serviceTime=1} Client{id=33, arrivalTime=21, serviceTime=5} 
+Queue 3: Queue: Client{id=4, arrivalTime=23, serviceTime=1} 
+Queue 4: Queue: Client{id=20, arrivalTime=20, serviceTime=1} 
+Queue 5: Queue: Client{id=37, arrivalTime=19, serviceTime=2} 
+
+Current time: 24
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=8, arrivalTime=25, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=18, arrivalTime=25, serviceTime=6} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 1: Queue: Client{id=49, arrivalTime=20, serviceTime=3} 
+Queue 2: Queue: Client{id=33, arrivalTime=21, serviceTime=5} 
+Queue 3: Queue: Client{id=5, arrivalTime=24, serviceTime=2} 
+Queue 4: Queue: Client{id=27, arrivalTime=24, serviceTime=1} 
+Queue 5: Queue: Client{id=37, arrivalTime=19, serviceTime=1} 
+
+Current time: 25
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=2, arrivalTime=26, serviceTime=3} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 1: Queue: Client{id=49, arrivalTime=20, serviceTime=2} 
+Queue 2: Queue: Client{id=33, arrivalTime=21, serviceTime=4} 
+Queue 3: Queue: Client{id=5, arrivalTime=24, serviceTime=1} 
+Queue 4: Queue: Client{id=8, arrivalTime=25, serviceTime=1} 
+Queue 5: Queue: Client{id=18, arrivalTime=25, serviceTime=6} 
+
+Current time: 26
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=24, arrivalTime=27, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 1: Queue: Client{id=49, arrivalTime=20, serviceTime=1} 
+Queue 2: Queue: Client{id=33, arrivalTime=21, serviceTime=3} 
+Queue 3: Queue: Client{id=2, arrivalTime=26, serviceTime=3} 
+Queue 4: Queue: 
+Queue 5: Queue: Client{id=18, arrivalTime=25, serviceTime=5} 
+
+Current time: 27
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=3, arrivalTime=28, serviceTime=4} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=9, arrivalTime=28, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 1: Queue: Client{id=24, arrivalTime=27, serviceTime=5} 
+Queue 2: Queue: Client{id=33, arrivalTime=21, serviceTime=3} 
+Queue 3: Queue: Client{id=2, arrivalTime=26, serviceTime=2} 
+Queue 4: Queue: 
+Queue 5: Queue: Client{id=18, arrivalTime=25, serviceTime=4} 
+
+Current time: 28
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=17, arrivalTime=29, serviceTime=5} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 1: Queue: Client{id=24, arrivalTime=27, serviceTime=4} Client{id=9, arrivalTime=28, serviceTime=3} 
+Queue 2: Queue: Client{id=33, arrivalTime=21, serviceTime=1} 
+Queue 3: Queue: Client{id=2, arrivalTime=26, serviceTime=1} 
+Queue 4: Queue: Client{id=3, arrivalTime=28, serviceTime=4} 
+Queue 5: Queue: Client{id=18, arrivalTime=25, serviceTime=3} 
+
+Current time: 29
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=14, arrivalTime=30, serviceTime=3} Client{id=19, arrivalTime=30, serviceTime=2} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 1: Queue: Client{id=24, arrivalTime=27, serviceTime=3} Client{id=9, arrivalTime=28, serviceTime=3} 
+Queue 2: Queue: Client{id=17, arrivalTime=29, serviceTime=5} 
+Queue 3: Queue: 
+Queue 4: Queue: Client{id=3, arrivalTime=28, serviceTime=3} 
+Queue 5: Queue: Client{id=18, arrivalTime=25, serviceTime=2} 
+
+Current time: 30
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=10, arrivalTime=31, serviceTime=4} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=28, arrivalTime=31, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 1: Queue: Client{id=24, arrivalTime=27, serviceTime=2} Client{id=9, arrivalTime=28, serviceTime=3} 
+Queue 2: Queue: Client{id=17, arrivalTime=29, serviceTime=4} Client{id=19, arrivalTime=30, serviceTime=2} 
+Queue 3: Queue: Client{id=14, arrivalTime=30, serviceTime=3} 
+Queue 4: Queue: Client{id=3, arrivalTime=28, serviceTime=2} 
+Queue 5: Queue: Client{id=18, arrivalTime=25, serviceTime=1} 
+
+Current time: 31
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=30, arrivalTime=32, serviceTime=4} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=47, arrivalTime=32, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 1: Queue: Client{id=24, arrivalTime=27, serviceTime=1} Client{id=9, arrivalTime=28, serviceTime=3} 
+Queue 2: Queue: Client{id=17, arrivalTime=29, serviceTime=3} Client{id=19, arrivalTime=30, serviceTime=2} 
+Queue 3: Queue: Client{id=14, arrivalTime=30, serviceTime=2} Client{id=28, arrivalTime=31, serviceTime=1} 
+Queue 4: Queue: Client{id=3, arrivalTime=28, serviceTime=1} Client{id=29, arrivalTime=31, serviceTime=7} 
+Queue 5: Queue: Client{id=10, arrivalTime=31, serviceTime=4} 
+
+Current time: 32
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=7, arrivalTime=33, serviceTime=3} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 1: Queue: Client{id=9, arrivalTime=28, serviceTime=3} Client{id=26, arrivalTime=32, serviceTime=5} 
+Queue 2: Queue: Client{id=17, arrivalTime=29, serviceTime=2} Client{id=19, arrivalTime=30, serviceTime=2} 
+Queue 3: Queue: Client{id=14, arrivalTime=30, serviceTime=1} Client{id=28, arrivalTime=31, serviceTime=1} 
+Queue 4: Queue: Client{id=29, arrivalTime=31, serviceTime=7} Client{id=30, arrivalTime=32, serviceTime=4} 
+Queue 5: Queue: Client{id=10, arrivalTime=31, serviceTime=3} Client{id=47, arrivalTime=32, serviceTime=4} 
+
+Current time: 33
+Clients: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 1: Queue: Client{id=9, arrivalTime=28, serviceTime=2} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=43, arrivalTime=33, serviceTime=3} 
+Queue 2: Queue: Client{id=17, arrivalTime=29, serviceTime=1} Client{id=19, arrivalTime=30, serviceTime=2} 
+Queue 3: Queue: Client{id=28, arrivalTime=31, serviceTime=1} Client{id=7, arrivalTime=33, serviceTime=3} 
+Queue 4: Queue: Client{id=29, arrivalTime=31, serviceTime=6} Client{id=30, arrivalTime=32, serviceTime=4} 
+Queue 5: Queue: Client{id=10, arrivalTime=31, serviceTime=2} Client{id=47, arrivalTime=32, serviceTime=4} 
+
+Current time: 34
+Clients: Client{id=21, arrivalTime=38, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=44, arrivalTime=35, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 1: Queue: Client{id=9, arrivalTime=28, serviceTime=1} Client{id=26, arrivalTime=32, serviceTime=5} Client{id=43, arrivalTime=33, serviceTime=3} 
+Queue 2: Queue: Client{id=19, arrivalTime=30, serviceTime=2} Client{id=1, arrivalTime=34, serviceTime=6} 
+Queue 3: Queue: Client{id=7, arrivalTime=33, serviceTime=3} 
+Queue 4: Queue: Client{id=29, arrivalTime=31, serviceTime=5} Client{id=30, arrivalTime=32, serviceTime=4} 
+Queue 5: Queue: Client{id=10, arrivalTime=31, serviceTime=1} Client{id=47, arrivalTime=32, serviceTime=4} 
+
+Current time: 35
+Clients: Client{id=21, arrivalTime=38, serviceTime=2} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} Client{id=45, arrivalTime=36, serviceTime=6} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 1: Queue: Client{id=26, arrivalTime=32, serviceTime=5} Client{id=43, arrivalTime=33, serviceTime=3} 
+Queue 2: Queue: Client{id=19, arrivalTime=30, serviceTime=1} Client{id=1, arrivalTime=34, serviceTime=6} 
+Queue 3: Queue: Client{id=7, arrivalTime=33, serviceTime=2} Client{id=22, arrivalTime=35, serviceTime=7} 
+Queue 4: Queue: Client{id=29, arrivalTime=31, serviceTime=4} Client{id=30, arrivalTime=32, serviceTime=4} 
+Queue 5: Queue: Client{id=47, arrivalTime=32, serviceTime=4} Client{id=44, arrivalTime=35, serviceTime=2} 
+
+Current time: 36
+Clients: Client{id=21, arrivalTime=38, serviceTime=2} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=36, arrivalTime=39, serviceTime=7} 
+Queue 1: Queue: Client{id=26, arrivalTime=32, serviceTime=4} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=45, arrivalTime=36, serviceTime=6} 
+Queue 2: Queue: Client{id=1, arrivalTime=34, serviceTime=6} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 3: Queue: Client{id=7, arrivalTime=33, serviceTime=1} Client{id=22, arrivalTime=35, serviceTime=7} 
+Queue 4: Queue: Client{id=29, arrivalTime=31, serviceTime=3} Client{id=30, arrivalTime=32, serviceTime=4} 
+Queue 5: Queue: Client{id=47, arrivalTime=32, serviceTime=3} Client{id=44, arrivalTime=35, serviceTime=2} 
+
+Current time: 37
+Clients: Client{id=21, arrivalTime=38, serviceTime=2} Client{id=36, arrivalTime=39, serviceTime=7} 
+Queue 1: Queue: Client{id=26, arrivalTime=32, serviceTime=3} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=45, arrivalTime=36, serviceTime=6} 
+Queue 2: Queue: Client{id=1, arrivalTime=34, serviceTime=5} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 3: Queue: Client{id=22, arrivalTime=35, serviceTime=7} Client{id=25, arrivalTime=37, serviceTime=6} 
+Queue 4: Queue: Client{id=29, arrivalTime=31, serviceTime=2} Client{id=30, arrivalTime=32, serviceTime=4} 
+Queue 5: Queue: Client{id=47, arrivalTime=32, serviceTime=2} Client{id=44, arrivalTime=35, serviceTime=2} 
+
+Current time: 38
+Clients: Client{id=36, arrivalTime=39, serviceTime=7} 
+Queue 1: Queue: Client{id=26, arrivalTime=32, serviceTime=2} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=45, arrivalTime=36, serviceTime=6} 
+Queue 2: Queue: Client{id=1, arrivalTime=34, serviceTime=4} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 3: Queue: Client{id=22, arrivalTime=35, serviceTime=6} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=21, arrivalTime=38, serviceTime=2} 
+Queue 4: Queue: Client{id=29, arrivalTime=31, serviceTime=1} Client{id=30, arrivalTime=32, serviceTime=4} 
+Queue 5: Queue: Client{id=47, arrivalTime=32, serviceTime=1} Client{id=44, arrivalTime=35, serviceTime=2} 
+
+Current time: 39
+Clients: 
+Queue 1: Queue: Client{id=26, arrivalTime=32, serviceTime=1} Client{id=43, arrivalTime=33, serviceTime=3} Client{id=45, arrivalTime=36, serviceTime=6} 
+Queue 2: Queue: Client{id=1, arrivalTime=34, serviceTime=3} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 3: Queue: Client{id=22, arrivalTime=35, serviceTime=5} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=21, arrivalTime=38, serviceTime=2} 
+Queue 4: Queue: Client{id=30, arrivalTime=32, serviceTime=4} Client{id=36, arrivalTime=39, serviceTime=7} 
+Queue 5: Queue: Client{id=44, arrivalTime=35, serviceTime=2} 
+
+Current time: 40
+Clients: 
+Queue 1: Queue: Client{id=43, arrivalTime=33, serviceTime=3} Client{id=45, arrivalTime=36, serviceTime=6} 
+Queue 2: Queue: Client{id=1, arrivalTime=34, serviceTime=2} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 3: Queue: Client{id=22, arrivalTime=35, serviceTime=4} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=21, arrivalTime=38, serviceTime=2} 
+Queue 4: Queue: Client{id=30, arrivalTime=32, serviceTime=3} Client{id=36, arrivalTime=39, serviceTime=7} 
+Queue 5: Queue: Client{id=44, arrivalTime=35, serviceTime=1} 
+
+Current time: 41
+Clients: 
+Queue 1: Queue: Client{id=43, arrivalTime=33, serviceTime=2} Client{id=45, arrivalTime=36, serviceTime=6} 
+Queue 2: Queue: Client{id=1, arrivalTime=34, serviceTime=1} Client{id=35, arrivalTime=36, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 3: Queue: Client{id=22, arrivalTime=35, serviceTime=3} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=21, arrivalTime=38, serviceTime=2} 
+Queue 4: Queue: Client{id=30, arrivalTime=32, serviceTime=2} Client{id=36, arrivalTime=39, serviceTime=7} 
+Queue 5: Queue: 
+
+Current time: 42
+Clients: 
+Queue 1: Queue: Client{id=43, arrivalTime=33, serviceTime=1} Client{id=45, arrivalTime=36, serviceTime=6} 
+Queue 2: Queue: Client{id=35, arrivalTime=36, serviceTime=4} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 3: Queue: Client{id=22, arrivalTime=35, serviceTime=2} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=21, arrivalTime=38, serviceTime=2} 
+Queue 4: Queue: Client{id=30, arrivalTime=32, serviceTime=1} Client{id=36, arrivalTime=39, serviceTime=7} 
+Queue 5: Queue: 
+
+Current time: 43
+Clients: 
+Queue 1: Queue: Client{id=45, arrivalTime=36, serviceTime=6} 
+Queue 2: Queue: Client{id=35, arrivalTime=36, serviceTime=3} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 3: Queue: Client{id=22, arrivalTime=35, serviceTime=1} Client{id=25, arrivalTime=37, serviceTime=6} Client{id=21, arrivalTime=38, serviceTime=2} 
+Queue 4: Queue: Client{id=36, arrivalTime=39, serviceTime=7} 
+Queue 5: Queue: 
+
+Current time: 44
+Clients: 
+Queue 1: Queue: Client{id=45, arrivalTime=36, serviceTime=5} 
+Queue 2: Queue: Client{id=35, arrivalTime=36, serviceTime=2} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 3: Queue: Client{id=25, arrivalTime=37, serviceTime=6} Client{id=21, arrivalTime=38, serviceTime=2} 
+Queue 4: Queue: Client{id=36, arrivalTime=39, serviceTime=6} 
+Queue 5: Queue: 
+
+Current time: 45
+Clients: 
+Queue 1: Queue: Client{id=45, arrivalTime=36, serviceTime=4} 
+Queue 2: Queue: Client{id=35, arrivalTime=36, serviceTime=1} Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 3: Queue: Client{id=25, arrivalTime=37, serviceTime=5} Client{id=21, arrivalTime=38, serviceTime=2} 
+Queue 4: Queue: Client{id=36, arrivalTime=39, serviceTime=5} 
+Queue 5: Queue: 
+
+Current time: 46
+Clients: 
+Queue 1: Queue: Client{id=45, arrivalTime=36, serviceTime=3} 
+Queue 2: Queue: Client{id=48, arrivalTime=36, serviceTime=4} 
+Queue 3: Queue: Client{id=25, arrivalTime=37, serviceTime=4} Client{id=21, arrivalTime=38, serviceTime=2} 
+Queue 4: Queue: Client{id=36, arrivalTime=39, serviceTime=4} 
+Queue 5: Queue: 
+
+Current time: 47
+Clients: 
+Queue 1: Queue: Client{id=45, arrivalTime=36, serviceTime=2} 
+Queue 2: Queue: Client{id=48, arrivalTime=36, serviceTime=3} 
+Queue 3: Queue: Client{id=25, arrivalTime=37, serviceTime=3} Client{id=21, arrivalTime=38, serviceTime=2} 
+Queue 4: Queue: Client{id=36, arrivalTime=39, serviceTime=3} 
+Queue 5: Queue: 
+
+Current time: 48
+Clients: 
+Queue 1: Queue: Client{id=45, arrivalTime=36, serviceTime=1} 
+Queue 2: Queue: Client{id=48, arrivalTime=36, serviceTime=2} 
+Queue 3: Queue: Client{id=25, arrivalTime=37, serviceTime=2} Client{id=21, arrivalTime=38, serviceTime=2} 
+Queue 4: Queue: Client{id=36, arrivalTime=39, serviceTime=2} 
+Queue 5: Queue: 
+
+Current time: 49
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: Client{id=48, arrivalTime=36, serviceTime=1} 
+Queue 3: Queue: Client{id=25, arrivalTime=37, serviceTime=1} Client{id=21, arrivalTime=38, serviceTime=2} 
+Queue 4: Queue: Client{id=36, arrivalTime=39, serviceTime=1} 
+Queue 5: Queue: 
+
+Current time: 50
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+Queue 3: Queue: Client{id=21, arrivalTime=38, serviceTime=2} 
+Queue 4: Queue: 
+Queue 5: Queue: 
+
+Current time: 51
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+Queue 3: Queue: Client{id=21, arrivalTime=38, serviceTime=1} 
+Queue 4: Queue: 
+Queue 5: Queue: 
+
+Current time: 52
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+Queue 3: Queue: 
+Queue 4: Queue: 
+Queue 5: Queue: 
+
+Current time: 53
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+Queue 3: Queue: 
+Queue 4: Queue: 
+Queue 5: Queue: 
+
+Current time: 54
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+Queue 3: Queue: 
+Queue 4: Queue: 
+Queue 5: Queue: 
+
+Current time: 55
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+Queue 3: Queue: 
+Queue 4: Queue: 
+Queue 5: Queue: 
+
+Current time: 56
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+Queue 3: Queue: 
+Queue 4: Queue: 
+Queue 5: Queue: 
+
+Current time: 57
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+Queue 3: Queue: 
+Queue 4: Queue: 
+Queue 5: Queue: 
+
+Current time: 58
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+Queue 3: Queue: 
+Queue 4: Queue: 
+Queue 5: Queue: 
+
+Current time: 59
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+Queue 3: Queue: 
+Queue 4: Queue: 
+Queue 5: Queue: 
+
+Current time: 60
+Clients: 
+Queue 1: Queue: 
+Queue 2: Queue: 
+Queue 3: Queue: 
+Queue 4: Queue: 
+Queue 5: Queue: 
+
