@@ -22,7 +22,7 @@ public class SimulationManager extends Thread {
     protected int currentTime;
     private JTextArea logArea;
 
-    String logFilePath = "C:\\Users\\Bogdan\\Desktop\\log.txt" ;
+    String logFilePath = "C:\\Users\\Modis\\Desktop\\log.txt" ;
 
     public SimulationManager(List<Client> clients, Scheduler scheduler, int simulationMaxTime, JTextArea logArea) {
         this.clients = clients;
